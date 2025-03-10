@@ -2,12 +2,12 @@ import streamlit as st
 from streamlit_chat import message
 from streamlit_extras.colored_header import colored_header
 from streamlit_extras.add_vertical_space import add_vertical_space
-from llamaapi import LlamaAPI  # Hypothetical LLaMA API library
+from llamaapi import LlamaAPI
 
 st.set_page_config(page_title="LlamaChat - An LLM-powered Streamlit app")
 
 # Initialize LLaMA API (you'll need to replace with your actual API key)
-llama = LlamaAPI("your_api_key_here")
+llama = LlamaAPI("5e6fafdd-58eb-4f2a-92de-2269d34be682")
 
 with st.sidebar:
     st.title('🦙💬 LlamaChat App')
