@@ -1,4 +1,5 @@
+pandas
 streamlit
-streamlit-chat
-streamlit-extras
 openai
+nltk
+streamlit_extras
