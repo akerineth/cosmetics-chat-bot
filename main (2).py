@@ -193,7 +193,7 @@ def generate_response(user_input):
         final_response = new_response.choices[0].message.content
 
         # Удаление случайного появления итоговой строки в финальном ответе
-        if "Пользоваель нуждается в:" in final_response:
+        if "Пользователь нуждается в:" in final_response:
             final_response = final_response.split('Пользователь нуждается в:')[0].strip()
         
         # Добавление финального ответа в обе истории
