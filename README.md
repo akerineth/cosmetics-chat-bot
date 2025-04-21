@@ -10,4 +10,4 @@ https://t-cosmetics-chat-bot.streamlit.app/
 ## Технологии
 - Python: Основной язык программирования.
 - Streamlit: Для создания интерактивного веб-интерфейса.
-- Mistral API: модель.
+- Mistral AP
