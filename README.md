@@ -1,25 +1,13 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 📦 Бот-ассистент по подбору косметики 
 
-Description of the app ...
+Бот-ассистент помогает пользователям подобрать косметику на основе их типа кожи, предпочтений и потребностей. Используя алгоритмы рекомендаций и базу данных косметических продуктов, бот предоставляет персонализированные советы и ссылки на подходящие товары.
 
-## Demo App
+## Приложение
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://app-starter-kit.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://app-starter-kit.streamlit.app/](https://t-cosmetics-chat-bot.streamlit.app/))
 
-## GitHub Codespaces
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/streamlit/app-starter-kit?quickstart=1)
-
-## Section Heading
-
-This is filler text, please replace this with text for this section.
-
-## Further Reading
-
-This is filler text, please replace this with a explanatory text about further relevant resources for this repo
-- Resource 1
-- Resource 2
-- Resource 3
+## Технологии
+Python: Основной язык программирования.
+Streamlit: Для создания интерактивного веб-интерфейса.
+Mistral API: модель.
