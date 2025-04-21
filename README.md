@@ -4,7 +4,7 @@
 
 ## Приложение
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([(https://t-cosmetics-chat-bot.streamlit.app/)])
+https://t-cosmetics-chat-bot.streamlit.app/ 
 
 
 ## Технологии
